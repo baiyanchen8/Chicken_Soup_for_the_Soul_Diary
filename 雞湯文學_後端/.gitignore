@@ -1,0 +1,23 @@
+# Python 虛擬環境
+venv/
+env/
+.venv/
+
+# Bytecode
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# 日誌
+*.log
+
+# 輸出資料 / 向量檔案
+*.pt
+*.npy
+
+# 系統檔案
+.DS_Store
+Thumbs.db
+

@@ -1,0 +1,17 @@
+# 資料處理
+pandas>=2.0.0
+numpy>=1.25.0
+
+# 向量模型
+torch>=2.1.0
+sentence-transformers>=2.2.2
+
+# LLM 與情緒分析
+transformers>=4.40.0
+sentencepiece>=0.1.99
+
+# 可選：Ollama API (如果你用 Ollama 本地部署)
+ollama>=0.0.8
+
+# 進階：如果要加速 FAISS 搜尋
+faiss-cpu>=1.7.4
